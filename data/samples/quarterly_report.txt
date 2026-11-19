@@ -1,0 +1,3 @@
+QueryMate Sample Quarterly Report
+
+This fictional sample report covers the first quarter of 2025. Total revenue was 125,000 dollars. The West region contributed 52,000 dollars, the East region contributed 41,000 dollars, and the Central region contributed 32,000 dollars. These sample figures are provided only to exercise document extraction, retrieval, and hybrid-query demos.
